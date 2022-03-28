@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "http://b43e6b755e20353d341b45cb7ea68742.github.io/"
+baseurl: "https://b43e6b755e20353d341b45cb7ea68742.github.io/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
